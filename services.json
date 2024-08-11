@@ -1,0 +1,108 @@
+{
+    "services": [
+      {
+        "id": 1,
+        "title": "Développement Web",
+        "description": "Création de sites web personnalisés pour les infrastructures sportives.",
+        "details": "Nous concevons des sites web responsives et optimisés pour le référencement, adaptés aux besoins spécifiques des infrastructures sportives. Notre équipe de développeurs utilise les dernières technologies pour garantir une expérience utilisateur fluide et intuitive.",
+        "features": [
+          "Design personnalisé",
+          "Responsive (adapté aux mobiles et tablettes)",
+          "Optimisation SEO",
+          "Intégration avec des outils de gestion"
+        ],
+        "image": "assets/img/services/web-development.jpg"
+      },
+      {
+        "id": 2,
+        "title": "SEO Local",
+        "description": "Optimisation de votre présence en ligne pour les recherches locales.",
+        "details": "Améliorez votre visibilité sur les moteurs de recherche et attirez plus de clients locaux grâce à nos services de SEO local. Nous optimisons vos fiches Google My Business, gérons les citations locales, et développons des stratégies de contenu ciblé pour attirer les clients de votre région.",
+        "features": [
+          "Optimisation Google My Business",
+          "Gestion des citations locales",
+          "Stratégies de contenu local",
+          "Analyse et reporting"
+        ],
+        "image": "assets/img/services/seo-local.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Publicité en Ligne",
+        "description": "Stratégies de publicité en ligne personnalisées pour votre entreprise.",
+        "details": "Nos experts en publicité en ligne créent et gèrent des campagnes publicitaires efficaces sur Google Ads, Facebook, et d'autres plateformes. Nous optimisons les annonces pour maximiser votre retour sur investissement et atteindre vos objectifs commerciaux.",
+        "features": [
+          "Campagnes Google Ads",
+          "Publicités sur les réseaux sociaux",
+          "Remarketing et reciblage",
+          "Analyse des performances"
+        ],
+        "image": "assets/img/services/online-advertising.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Réseaux Sociaux",
+        "description": "Boostez votre présence en ligne avec nos stratégies de réseaux sociaux.",
+        "details": "Nos services de gestion des réseaux sociaux vous aident à créer une présence en ligne engageante et à interagir efficacement avec votre audience. Nous développons des stratégies de contenu personnalisées et gérons vos publications et interactions.",
+        "features": [
+          "Stratégie de contenu personnalisée",
+          "Gestion des publications",
+          "Interactions avec l'audience",
+          "Campagnes publicitaires sur les réseaux sociaux"
+        ],
+        "image": "assets/img/services/social-media.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Email Marketing",
+        "description": "Augmentez l'engagement de vos clients et boostez vos ventes grâce à nos campagnes d'email marketing.",
+        "details": "Engagez vos clients et boostez vos ventes grâce à des campagnes d'email marketing ciblées et personnalisées. Nous gérons la segmentation de votre audience, la création de contenu engageant, et l'analyse des performances pour optimiser les résultats.",
+        "features": [
+          "Segmentation et ciblage précis",
+          "Création de contenu engageant",
+          "Analyse des performances",
+          "Optimisation des campagnes"
+        ],
+        "image": "assets/img/services/email-marketing.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Gestion des Avis",
+        "description": "Renforcez votre réputation en ligne grâce à notre service de gestion des avis.",
+        "details": "Nous aidons votre entreprise à gérer les avis en ligne, à répondre aux commentaires des clients et à améliorer votre réputation. Nos stratégies incluent la sollicitation d'avis positifs, la gestion des avis négatifs, et l'analyse des feedbacks pour des améliorations continues.",
+        "features": [
+          "Sollicitation d'avis positifs",
+          "Gestion des avis négatifs",
+          "Réponses aux commentaires",
+          "Analyse des feedbacks"
+        ],
+        "image": "assets/img/services/review-management.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Création de Contenu",
+        "description": "Captivez votre audience avec du contenu engageant et de qualité.",
+        "details": "Attirez et engagez votre audience avec du contenu de haute qualité, conçu pour raconter l'histoire unique de votre entreprise. Nous créons des articles de blog, des photos et vidéos professionnelles, ainsi que des infographies et visuels attrayants.",
+        "features": [
+          "Articles de blog captivants",
+          "Photos et vidéos professionnelles",
+          "Infographies et visuels",
+          "Stratégies de contenu"
+        ],
+        "image": "assets/img/services/content-creation.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Stratégie Digitale",
+        "description": "Développez une stratégie digitale complète pour atteindre vos objectifs commerciaux.",
+        "details": "Nous collaborons avec vous pour développer une stratégie digitale sur mesure qui aligne vos objectifs commerciaux avec les attentes de votre audience. Nos services incluent l'analyse de marché, la planification stratégique, et la mise en œuvre de campagnes digitales efficaces.",
+        "features": [
+          "Analyse de marché",
+          "Planification stratégique",
+          "Campagnes digitales",
+          "Suivi et optimisation"
+        ],
+        "image": "assets/img/services/digital-strategy.jpg"
+      }
+    ]
+  }
